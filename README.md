@@ -1,6 +1,6 @@
 # PestPaw
 
-Click the link to see [DEMO](https://oleksii-pinchuk.github.io/petspaw/)
+Click the link to see [DEMO](https://oleksii-pinchuk.github.io/pets-paw/)
 
 mobile/tablet/desktop view
 
